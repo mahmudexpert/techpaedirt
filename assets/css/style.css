@@ -231,7 +231,7 @@ footer{
 
 @media only screen and (max-width: 667px) {
     .hero_img {
-        text-align: center;
+        text-align: left;
     }
 
     .hero_img img {
